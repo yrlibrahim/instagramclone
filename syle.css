@@ -1,0 +1,46 @@
+.navbar-ul{
+    margin-left:300px;
+}
+.logo{
+    height: 100%;
+    width: 100%;
+    border-radius: 0%;
+    border: 0ch;
+}
+.imgprf{
+border-radius: 50%;
+overflow: hidden;
+border: 1px solid;
+width:35px;
+color: red;
+}
+.nav-search{
+    margin-left: 100px;
+}
+.fa-brands{
+    color:black
+}
+.fa-solid{
+    color:black
+}
+.fa-regular{
+    color: black
+}
+ul{
+list-style: none;
+}
+.img-log{
+    margin-left:50px;
+}
+.prfBar{
+    width: 50px;
+    margin-top: 10px;   
+}
+.sideprofile{
+    height: 500px !important;
+}
+.imgprfside{
+    border-radius: 50%;
+    overflow: hidden;
+    width:60px;
+    }
